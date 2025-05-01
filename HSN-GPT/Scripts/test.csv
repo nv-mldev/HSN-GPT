@@ -1,0 +1,23 @@
+HS Code,Level,Item Description,Unit,Basic Duty (SCH),Basic Duty (NTFN),Specific Duty (Rs),IGST,10% SWS,Total duty with SWS of 10% on BCD,Total Duty Specific,Pref. Duty (A),Import Policy ,Non Tariff Barriers,Export Policy
+,,Chapter 1 - Live Animals,,,,,,,,,,,,
+101,,"LIVE HORSES, ASSES, MULES AND HINNIES",,,,,,,,,,,,
+,-,Horses:,,,,,,,,,,,,
+0101 21 00,--,Pure-bred breeding animals,u,0,,,12,0,12,,,Restd,Live Stock Rules,Restd*
+0101 29,--,Other:,,,,,,,,,,,,
+0101 29 10,---,Horses for Polo,u,30,,,12,3,48.96,,,Restd,Live Stock Rules,Restd*
+0101 29 90,---,Other,u,30,,,12,3,48.96,,,Restd,Live Stock Rules,Restd*
+0101 30,-,Asses:,,,,,,,,,,,,
+0101 30 10,---,Pure-bred breeding animals,u,30,,,0,3,33,,,Restd,Live Stock Rules,Free
+0101 30 20,---,Livestock,u,30,,,0,3,33,,,Restd,Live Stock Rules,Free
+0101 30 90,---,Other,u,30,,,0,3,33,,,Restd,Live Stock Rules,Free
+0101 90,-,Other:,,,,,,,,,,,,
+0101 90 30,---,Mules and hinnies as livestock,u,30,,,0,3,33,,,Restd,Live Stock Rules,Free
+0101 90 90,---,Other,u,30,,,0,3,33,,,Restd,Live Stock Rules,Restd
+,,"w.e.f. 1 May 2022- BCD against tariff item 0101 21 00, the entry substituted by “Free” [Clause 98(b) of Finance Act 2022]
+
+",,,Nil,,,,,,,,,
+,,"IGST on Live horses in 0101 21 00, 0101 29 [SNo 1 in Sch II of Ntfn 01-IGST/28.06.2017]
+",,,,,12,,,,,,,
+,,"Live asses, mules and hinnies[SNo(1) in Ntfn 02-IGST/28.06.2017]
+",,,,,0,,,,,,,
+,,"*Export Policy Condition 2: Restricted - All Horses are free except Kathiawari, Marwari and Manipuri breeds which are permitted for export under a Restricted Export Authorisation.",,,,,,,,,,,,

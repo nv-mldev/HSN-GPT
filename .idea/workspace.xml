@@ -5,19 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="593f929c-3879-46d1-be86-2bd31092ffb7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/react.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HSN-GPT/Scripts/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HSN-GPT/Scripts/hsn_excel_parser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HSN-GPT/Scripts/test.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HSN-GPT/hsn-data/animals.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HSN-GPT/hsn-data/test.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HSN-GPT/Scripts/test.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HSN-GPT/Scripts/test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/HSN-GPT/Scripts/test.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,9 +25,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2wROKV46X7lxItI3jaFMA7XlUY0" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -49,8 +39,9 @@
     "Python.hsn_excel_parser.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "database.data.extractors.current.export.id": "Comma-separated (CSV)_id",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/nithin/work/llm/langchain/react/HSN-GPT/hsn-data",
+    "last_opened_file_path": "/home/nithin/work/llm/langchain/react/HSN-GPT/Scripts",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -62,7 +53,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/HSN-GPT/Scripts" />
       <recent name="$PROJECT_DIR$/HSN-GPT/hsn-data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/HSN-GPT/Scripts" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -81,6 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1746000855618</updated>
       <workItem from="1746000856668" duration="9562000" />
+      <workItem from="1746069471222" duration="13278000" />
     </task>
     <servers />
   </component>
